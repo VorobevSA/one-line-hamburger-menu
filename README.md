@@ -1,2 +1,3 @@
-# one-line-burger-menu
-Burger menu in one line on pure CSS
+# One-line-hamburger-menu
+A simple, non-classic and minimalistic menu in pure CSS, in the form of an outgoing assembly line.
+Codepen: https://codepen.io/vorobevsa/pen/yLjMbVX
